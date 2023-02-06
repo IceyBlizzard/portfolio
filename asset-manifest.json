@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.68f728d3.css",
+    "main.js": "/portfolio/static/js/main.512f5f64.js",
+    "static/js/422.f70132ac.chunk.js": "/portfolio/static/js/422.f70132ac.chunk.js",
+    "static/media/profile_2.jpg": "/portfolio/static/media/profile_2.a302f97b37a07d4614bd.jpg",
+    "static/media/equation.jpg": "/portfolio/static/media/equation.580241ddc16e380bb34c.jpg",
+    "static/media/daniel.jpg": "/portfolio/static/media/daniel.439916039b9781575297.jpg",
+    "static/media/restaurant.png": "/portfolio/static/media/restaurant.eb61733db8741737489c.png",
+    "static/media/rocket.png": "/portfolio/static/media/rocket.469189d367c35129ce2c.png",
+    "static/media/pot.jpg": "/portfolio/static/media/pot.1bfc03b9228f7a4ff59f.jpg",
+    "static/media/Darshan Eshwarappa Resume.pdf": "/portfolio/static/media/Darshan Eshwarappa Resume.dc39be80973042703251.pdf",
+    "static/media/testimonial2.png": "/portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/simeone.jpeg": "/portfolio/static/media/simeone.bae6eea8c9d5e6d72339.jpeg",
+    "static/media/ivy.png": "/portfolio/static/media/ivy.fb09ca1d20d2862d50f1.png",
+    "index.html": "/portfolio/index.html",
+    "main.68f728d3.css.map": "/portfolio/static/css/main.68f728d3.css.map",
+    "main.512f5f64.js.map": "/portfolio/static/js/main.512f5f64.js.map",
+    "422.f70132ac.chunk.js.map": "/portfolio/static/js/422.f70132ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f728d3.css",
+    "static/js/main.512f5f64.js"
+  ]
+}
